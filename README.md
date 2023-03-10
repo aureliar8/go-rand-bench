@@ -1,4 +1,4 @@
-```
+```sh
 ❯ go test -bench=.        
 goos: linux
 goarch: amd64
